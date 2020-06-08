@@ -45,8 +45,12 @@
 [983. 最低票价](https://github.com/guokangf/like-algorithms/issues/16)  
 [877. 石子游戏](https://github.com/guokangf/like-algorithms/issues/3)  
 [面试题63. 股票的最大利润](https://github.com/guokangf/like-algorithms/issues/5)  
+[343. 整数拆分](https://github.com/guokangf/like-algorithms/issues/17)  
+[516. 最长回文子序列](https://github.com/guokangf/like-algorithms/issues/20)  
 
 额外题
 [5. 最长回文子串](https://github.com/guokangf/like-algorithms/issues/1)  
 [15. 三数之和 ](https://github.com/guokangf/like-algorithms/issues/2)  
 [20. 有效的括号](https://github.com/guokangf/like-algorithms/issues/4)  
+[21. 合并两个有序链表](https://github.com/guokangf/like-algorithms/issues/18)  
+[49. 字母异位词分组](https://github.com/guokangf/like-algorithms/issues/19)  
