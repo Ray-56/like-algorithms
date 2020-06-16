@@ -38,9 +38,9 @@
 [面试题42. 连续子数组的最大和](https://github.com/guokangf/like-algorithms/issues/14)  
 [198. 打家劫舍](https://github.com/guokangf/like-algorithms/issues/15)  
 
-### 第三周
+## 第三周
 
-> 这周也还是继续动态规划，不过难度上升到了`困难`
+> 这周也还是继续动态规划，不过难度上升到了`中等`
 
 [983. 最低票价](https://github.com/guokangf/like-algorithms/issues/16)  
 [877. 石子游戏](https://github.com/guokangf/like-algorithms/issues/3)  
@@ -55,3 +55,28 @@
 [20. 有效的括号](https://github.com/guokangf/like-algorithms/issues/4)  
 [21. 合并两个有序链表](https://github.com/guokangf/like-algorithms/issues/18)  
 [49. 字母异位词分组](https://github.com/guokangf/like-algorithms/issues/19)  
+
+## 第四周
+
+> 这周继续动态规划
+
+[0-1 背包问题](https://github.com/guokangf/like-algorithms/issues/23)  
+[518. 零钱兑换 II](https://github.com/guokangf/like-algorithms/issues/24)  
+[416. 分割等和子集](https://github.com/guokangf/like-algorithms/issues/26)  
+[1143. 最长公共子序列](https://github.com/guokangf/like-algorithms/issues/29)  
+[面试题14- I. 剪绳子](https://github.com/guokangf/like-algorithms/issues/30)  
+
+额外题
+
+[54. 螺旋矩阵](https://github.com/guokangf/like-algorithms/issues/22)  
+[55. 跳跃游戏 ](https://github.com/guokangf/like-algorithms/issues/25)  
+[56. 合并区间](https://github.com/guokangf/like-algorithms/issues/27)  
+[62. 不同路径](https://github.com/guokangf/like-algorithms/issues/28)  
+[66. 加一](https://github.com/guokangf/like-algorithms/issues/31)  
+[70. 爬楼梯](https://github.com/guokangf/like-algorithms/issues/32)  
+
+## 第五周
+
+> 由于时间少看看韩顺平老师的课这周开始先暂停刷题，用`Deno+TypeScript`代码练习。课跟完了继续刷题，开始记录跟课
+
+1. p30 ~ p40
