@@ -84,3 +84,20 @@
 3. p44 ~ p50: 递归
 4. p50 ~ p63: 排序算法，算法复杂度，冒泡、选择、插入
 5. p63 ~ p69: 希尔、快排
+
+额外题
+
+[73.矩阵置零](https://github.com/guokangf/like-algorithms/issues/33)  
+[121. 买卖股票的最佳时机](https://github.com/guokangf/like-algorithms/issues/34)  
+[125. 验证回文串](https://github.com/guokangf/like-algorithms/issues/35)  
+[134. 加油站](https://github.com/guokangf/like-algorithms/issues/36)  
+
+**跟课总结**
+
+这周周的跟课收货有但是不大，在这之前的积累，这大部分都掌握了，就算是对一些概念的了解和知识点的回顾
+
+## 第六周
+
+> 继续跟视频课程，利用下班回家后的时间，希望可以有新的收获
+
+1. p69 ~ p77: 归并、基数排序，排序算法的复杂度分析
