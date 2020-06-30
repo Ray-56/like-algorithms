@@ -103,3 +103,21 @@
 1. p69 ~ p77: 归并、基数排序，排序算法的复杂度分析
 1. p77 ~ p81: 线性查找、二分查找
 1. 接下来几天都是在忙搬家的事
+
+## 第七周
+
+> 跟课跟课
+
+1. p81 ~ p86: 插值查找、斐波那契（黄金分割）查找
+1. p86 ~ p90: 哈希表
+
+额外题
+
+[152. 乘积最大子数组](https://github.com/guokangf/like-algorithms/issues/37)  
+[153. 寻找旋转排序数组中的最小值](https://github.com/guokangf/like-algorithms/issues/38)  
+[187. 重复的DNA序列](https://github.com/guokangf/like-algorithms/issues/39)  
+[200. 岛屿数量](https://github.com/guokangf/like-algorithms/issues/40)  
+[217. 存在重复元素](https://github.com/guokangf/like-algorithms/issues/41)  
+[219. 存在重复元素 II](https://github.com/guokangf/like-algorithms/issues/42)  
+[238. 除自身以外数组的乘积](https://github.com/guokangf/like-algorithms/issues/43)  
+[242. 有效的字母异位词](https://github.com/guokangf/like-algorithms/issues/44)  
