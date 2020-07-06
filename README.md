@@ -125,3 +125,13 @@
 [219. 存在重复元素 II](https://github.com/guokangf/like-algorithms/issues/42)  
 [238. 除自身以外数组的乘积](https://github.com/guokangf/like-algorithms/issues/43)  
 [242. 有效的字母异位词](https://github.com/guokangf/like-algorithms/issues/44)  
+[283. 移动零](https://github.com/guokangf/like-algorithms/issues/45)  
+[349. 两个数组的交集](https://github.com/guokangf/like-algorithms/issues/46)  
+[419. 甲板上的战舰](https://github.com/guokangf/like-algorithms/issues/47)  
+[509. 斐波那契数](https://github.com/guokangf/like-algorithms/issues/48)  
+[680. 验证回文字符串 Ⅱ](https://github.com/guokangf/like-algorithms/issues/49)  
+
+## 第八周
+
+> 依旧跟课，一半已过，后续课程的难度比前面稍高，不过老师讲的非常细，只要思想集中就没啥问题
+
