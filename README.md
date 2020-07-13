@@ -146,3 +146,14 @@
 额外题
 
 [695. 岛屿的最大面积](https://github.com/guokangf/like-algorithms/issues/50)  
+[704. 二分查找](https://github.com/guokangf/like-algorithms/issues/51)  
+[733. 图像渲染](https://github.com/guokangf/like-algorithms/issues/52)  
+[796. 旋转字符串](https://github.com/guokangf/like-algorithms/issues/53)  
+[836. 矩形重叠](https://github.com/guokangf/like-algorithms/issues/54)  
+[844. 比较含退格的字符串](https://github.com/guokangf/like-algorithms/issues/55)  
+[904. 水果成篮](https://github.com/guokangf/like-algorithms/issues/56)  
+[905. 按奇偶排序数组](https://github.com/guokangf/like-algorithms/issues/57)  
+
+## 第九周
+
+> 系统化的重新过了很多了，听完课再自己动手实现，收获还是挺多
