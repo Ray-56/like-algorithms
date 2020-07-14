@@ -157,3 +157,9 @@
 ## 第九周
 
 > 系统化的重新过了很多了，听完课再自己动手实现，收获还是挺多
+
+1. p120 ~ p122 赫夫曼压缩实现
+
+额外题
+
+[922. 按奇偶排序数组 II](https://github.com/guokangf/like-algorithms/issues/58)  
