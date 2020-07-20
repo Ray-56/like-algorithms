@@ -161,8 +161,21 @@
 1. p120 ~ p122 赫夫曼压缩实现
 1. p122 ~ p124 赫夫曼解压实现
 1. p124 ~ p127 最佳实例，压缩文件
+1. p127 ~ p129 二叉排序树的创建、遍历
+1. p129 ~ p133 二叉排序树的删除
 
 额外题
 
 [922. 按奇偶排序数组 II](https://github.com/guokangf/like-algorithms/issues/58)  
-[83. 删除排序链表中的重复元素 ](https://github.com/guokangf/like-algorithms/issues/59)  
+[83. 删除排序链表中的重复元素](https://github.com/guokangf/like-algorithms/issues/59)  
+[19. 删除链表的倒数第N个节点](https://github.com/guokangf/like-algorithms/issues/60)  
+[876. 链表的中间结点](https://github.com/guokangf/like-algorithms/issues/61)  
+[328. 奇偶链表](https://github.com/guokangf/like-algorithms/issues/62)  
+[92. 反转链表 II](https://github.com/guokangf/like-algorithms/issues/63)  
+[7. 整数反转](https://github.com/guokangf/like-algorithms/issues/64)  
+
+## 第十周
+
+> 把时间调换了下，晚上十二点之前睡觉，早上可以七点起来看书或者学习
+
+
