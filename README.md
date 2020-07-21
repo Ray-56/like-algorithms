@@ -178,4 +178,10 @@
 
 > 把时间调换了下，晚上十二点之前睡觉，早上可以七点起来看书或者学习
 
+1. p133 ~ p140 二叉排序树删除两个子树的节点，平衡二叉树左旋转、右旋转
+
+额外题
+
+[9. 回文数](https://github.com/guokangf/like-algorithms/issues/65)  
+[13. 罗马数字转整数](https://github.com/guokangf/like-algorithms/issues/66)  
 
