@@ -186,4 +186,5 @@
 
 [9. 回文数](https://github.com/guokangf/like-algorithms/issues/65)  
 [13. 罗马数字转整数](https://github.com/guokangf/like-algorithms/issues/66)  
-
+[27. 移除元素 ](https://github.com/guokangf/like-algorithms/issues/67)  
+[189. 旋转数组](https://github.com/guokangf/like-algorithms/issues/68)  
