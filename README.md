@@ -187,5 +187,18 @@
 
 [9. 回文数](https://github.com/guokangf/like-algorithms/issues/65)  
 [13. 罗马数字转整数](https://github.com/guokangf/like-algorithms/issues/66)  
-[27. 移除元素 ](https://github.com/guokangf/like-algorithms/issues/67)  
-[189. 旋转数组](https://github.com/guokangf/like-algorithms/issues/68)  
+[26. 删除排序数组中的重复项 ](https://github.com/guokangf/like-algorithms/issues/67)  
+[27. 移除元素 ](https://github.com/guokangf/like-algorithms/issues/68)  
+[189. 旋转数组](https://github.com/guokangf/like-algorithms/issues/69)  
+[35. 搜索插入位置 ](https://github.com/guokangf/like-algorithms/issues/70)  
+[67. 二进制求和 ](https://github.com/guokangf/like-algorithms/issues/71)  
+
+## 第十一周
+
+> 调换作息时间刚开始有点不适应，坚持一两周习惯后白天也就没那么困了
+
+1. zzz
+
+额外题
+
+[88. 合并两个有序数组](https://github.com/guokangf/like-algorithms/issues/72)  
