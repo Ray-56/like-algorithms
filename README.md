@@ -199,9 +199,11 @@
 
 1. p150 ~ p153 图的bfs，bfs vs dfs 案例
 1. p153 ~ p158 新的篇章，程序员十大算法，二分查找（非递归）、分治算法、动态规划的分析
+1. p158 ~ p161 背包问题，暴力匹配字符串
 
 额外题
 
 [88. 合并两个有序数组](https://github.com/guokangf/like-algorithms/issues/72)  
 [392. 判断子序列](https://github.com/guokangf/like-algorithms/issues/73) 
 [647. 回文子串](https://github.com/guokangf/like-algorithms/issues/74) 
+[139. 单词拆分](https://github.com/guokangf/like-algorithms/issues/75) 
