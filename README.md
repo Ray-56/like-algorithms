@@ -209,3 +209,14 @@
 [392. 判断子序列](https://github.com/guokangf/like-algorithms/issues/73) 
 [647. 回文子串](https://github.com/guokangf/like-algorithms/issues/74) 
 [139. 单词拆分](https://github.com/guokangf/like-algorithms/issues/75) 
+[740. 删除与获得点数](https://github.com/guokangf/like-algorithms/issues/76) 
+[N数和](https://github.com/guokangf/like-algorithms/issues/77) 
+[141. 环形链表 ](https://github.com/guokangf/like-algorithms/issues/78) 
+
+## 第十二周
+
+> 持续学习，面向未来
+
+1. p165 ~ p170 贪心算法
+
+额外题
