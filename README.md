@@ -226,3 +226,8 @@
 额外题
 
 [523. 连续的子数组和](https://github.com/guokangf/like-algorithms/issues/79)  
+[374. 猜数字大小](https://github.com/guokangf/like-algorithms/issues/80) 
+[375. 猜数字大小 II](https://github.com/guokangf/like-algorithms/issues/81) 
+[205. 同构字符串](https://github.com/guokangf/like-algorithms/issues/82) 
+[1140. 石子游戏 II](https://github.com/guokangf/like-algorithms/issues/83) 
+[203. 移除链表元素](https://github.com/guokangf/like-algorithms/issues/84) 
