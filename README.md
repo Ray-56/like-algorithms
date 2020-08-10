@@ -231,3 +231,9 @@
 [205. 同构字符串](https://github.com/guokangf/like-algorithms/issues/82) 
 [1140. 石子游戏 II](https://github.com/guokangf/like-algorithms/issues/83) 
 [203. 移除链表元素](https://github.com/guokangf/like-algorithms/issues/84) 
+
+## 第十三周
+
+> 视频算法课，这周应该就要结束了
+
+1. p180 ~ p185 迪杰斯塔拉算法
