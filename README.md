@@ -242,4 +242,22 @@
 
 额外题
 
+[290. 单词规律](https://github.com/guokangf/like-algorithms/issues/85) 
+[258. 各位相加](https://github.com/guokangf/like-algorithms/issues/86) 
+[136. 只出现一次的数字](https://github.com/guokangf/like-algorithms/issues/87) 
+[137. 只出现一次的数字 II](https://github.com/guokangf/like-algorithms/issues/88) 
+[1025. 除数博弈](https://github.com/guokangf/like-algorithms/issues/89) 
 
+## 第十四周
+
+> 做做树的专题
+
+[1367. 二叉树中的列表](https://github.com/guokangf/like-algorithms/issues/90) 
+[102. 二叉树的层序遍历](https://github.com/guokangf/like-algorithms/issues/91) 
+[173. 二叉搜索树迭代器](https://github.com/guokangf/like-algorithms/issues/92) 
+[面试题 04.04. 检查平衡性](https://github.com/guokangf/like-algorithms/issues/93) 
+[112. 路径总和](https://github.com/guokangf/like-algorithms/issues/95) 
+
+额外题
+
+[237. 删除链表中的节点](https://github.com/guokangf/like-algorithms/issues/94) 
