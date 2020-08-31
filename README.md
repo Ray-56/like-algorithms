@@ -226,11 +226,11 @@
 额外题
 
 [523. 连续的子数组和](https://github.com/guokangf/like-algorithms/issues/79)  
-[374. 猜数字大小](https://github.com/guokangf/like-algorithms/issues/80) 
-[375. 猜数字大小 II](https://github.com/guokangf/like-algorithms/issues/81) 
-[205. 同构字符串](https://github.com/guokangf/like-algorithms/issues/82) 
-[1140. 石子游戏 II](https://github.com/guokangf/like-algorithms/issues/83) 
-[203. 移除链表元素](https://github.com/guokangf/like-algorithms/issues/84) 
+[374. 猜数字大小](https://github.com/guokangf/like-algorithms/issues/80)  
+[375. 猜数字大小 II](https://github.com/guokangf/like-algorithms/issues/81)  
+[205. 同构字符串](https://github.com/guokangf/like-algorithms/issues/82)  
+[1140. 石子游戏 II](https://github.com/guokangf/like-algorithms/issues/83)  
+[203. 移除链表元素](https://github.com/guokangf/like-algorithms/issues/84)  
 
 ## 第十三周
 
@@ -242,22 +242,35 @@
 
 额外题
 
-[290. 单词规律](https://github.com/guokangf/like-algorithms/issues/85) 
-[258. 各位相加](https://github.com/guokangf/like-algorithms/issues/86) 
-[136. 只出现一次的数字](https://github.com/guokangf/like-algorithms/issues/87) 
-[137. 只出现一次的数字 II](https://github.com/guokangf/like-algorithms/issues/88) 
-[1025. 除数博弈](https://github.com/guokangf/like-algorithms/issues/89) 
+[290. 单词规律](https://github.com/guokangf/like-algorithms/issues/85)  
+[258. 各位相加](https://github.com/guokangf/like-algorithms/issues/86)  
+[136. 只出现一次的数字](https://github.com/guokangf/like-algorithms/issues/87)  
+[137. 只出现一次的数字 II](https://github.com/guokangf/like-algorithms/issues/88)  
+[1025. 除数博弈](https://github.com/guokangf/like-algorithms/issues/89)  
 
 ## 第十四周
 
 > 做做树的专题
 
-[1367. 二叉树中的列表](https://github.com/guokangf/like-algorithms/issues/90) 
-[102. 二叉树的层序遍历](https://github.com/guokangf/like-algorithms/issues/91) 
-[173. 二叉搜索树迭代器](https://github.com/guokangf/like-algorithms/issues/92) 
-[面试题 04.04. 检查平衡性](https://github.com/guokangf/like-algorithms/issues/93) 
-[112. 路径总和](https://github.com/guokangf/like-algorithms/issues/95) 
+[1367. 二叉树中的列表](https://github.com/guokangf/like-algorithms/issues/90)  
+[102. 二叉树的层序遍历](https://github.com/guokangf/like-algorithms/issues/91)  
+[173. 二叉搜索树迭代器](https://github.com/guokangf/like-algorithms/issues/92)  
+[面试题 04.04. 检查平衡性](https://github.com/guokangf/like-algorithms/issues/93)  
+[112. 路径总和](https://github.com/guokangf/like-algorithms/issues/95)  
 
 额外题
 
-[237. 删除链表中的节点](https://github.com/guokangf/like-algorithms/issues/94) 
+[237. 删除链表中的节点](https://github.com/guokangf/like-algorithms/issues/94)  
+
+## 第十五周
+
+> 继续做树的专题，这周要回家一趟暂停几天
+
+[113. 路径总和 II](https://github.com/guokangf/like-algorithms/issues/96)  
+[数组转化二叉树](https://github.com/guokangf/like-algorithms/issues/97)  
+[437. 路径总和 III](https://github.com/guokangf/like-algorithms/issues/98)  
+[951. 翻转等价二叉树](https://github.com/guokangf/like-algorithms/issues/99)  
+
+## 第十六周
+
+> 返回上海，回归日常，加油！！！
