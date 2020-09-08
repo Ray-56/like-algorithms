@@ -53,7 +53,7 @@
 额外题
 
 [5. 最长回文子串](https://github.com/guokangf/like-algorithms/issues/1)  
-[15. 三数之和 ](https://github.com/guokangf/like-algorithms/issues/2)  
+[15. 三数之和](https://github.com/guokangf/like-algorithms/issues/2)  
 [20. 有效的括号](https://github.com/guokangf/like-algorithms/issues/4)  
 [21. 合并两个有序链表](https://github.com/guokangf/like-algorithms/issues/18)  
 [49. 字母异位词分组](https://github.com/guokangf/like-algorithms/issues/19)  
@@ -71,7 +71,7 @@
 额外题
 
 [54. 螺旋矩阵](https://github.com/guokangf/like-algorithms/issues/22)  
-[55. 跳跃游戏 ](https://github.com/guokangf/like-algorithms/issues/25)  
+[55. 跳跃游戏](https://github.com/guokangf/like-algorithms/issues/25)  
 [56. 合并区间](https://github.com/guokangf/like-algorithms/issues/27)  
 [62. 不同路径](https://github.com/guokangf/like-algorithms/issues/28)  
 [66. 加一](https://github.com/guokangf/like-algorithms/issues/31)  
@@ -187,11 +187,11 @@
 
 [9. 回文数](https://github.com/guokangf/like-algorithms/issues/65)  
 [13. 罗马数字转整数](https://github.com/guokangf/like-algorithms/issues/66)  
-[26. 删除排序数组中的重复项 ](https://github.com/guokangf/like-algorithms/issues/67)  
-[27. 移除元素 ](https://github.com/guokangf/like-algorithms/issues/68)  
+[26. 删除排序数组中的重复项](https://github.com/guokangf/like-algorithms/issues/67)  
+[27. 移除元素](https://github.com/guokangf/like-algorithms/issues/68)  
 [189. 旋转数组](https://github.com/guokangf/like-algorithms/issues/69)  
-[35. 搜索插入位置 ](https://github.com/guokangf/like-algorithms/issues/70)  
-[67. 二进制求和 ](https://github.com/guokangf/like-algorithms/issues/71)  
+[35. 搜索插入位置](https://github.com/guokangf/like-algorithms/issues/70)  
+[67. 二进制求和](https://github.com/guokangf/like-algorithms/issues/71)  
 
 ## 第十一周
 
@@ -206,12 +206,12 @@
 额外题
 
 [88. 合并两个有序数组](https://github.com/guokangf/like-algorithms/issues/72)  
-[392. 判断子序列](https://github.com/guokangf/like-algorithms/issues/73) 
-[647. 回文子串](https://github.com/guokangf/like-algorithms/issues/74) 
-[139. 单词拆分](https://github.com/guokangf/like-algorithms/issues/75) 
-[740. 删除与获得点数](https://github.com/guokangf/like-algorithms/issues/76) 
-[N数和](https://github.com/guokangf/like-algorithms/issues/77) 
-[141. 环形链表 ](https://github.com/guokangf/like-algorithms/issues/78) 
+[392. 判断子序列](https://github.com/guokangf/like-algorithms/issues/73)  
+[647. 回文子串](https://github.com/guokangf/like-algorithms/issues/74)  
+[139. 单词拆分](https://github.com/guokangf/like-algorithms/issues/75)  
+[740. 删除与获得点数](https://github.com/guokangf/like-algorithms/issues/76)  
+[N数和](https://github.com/guokangf/like-algorithms/issues/77)  
+[141. 环形链表](https://github.com/guokangf/like-algorithms/issues/78)  
 
 ## 第十二周
 
@@ -274,3 +274,16 @@
 ## 第十六周
 
 > 返回上海，回归日常，加油！！！
+
+[94. 二叉树的中序遍历](https://github.com/guokangf/like-algorithms/issues/100)  
+[98. 验证二叉搜索树](https://github.com/guokangf/like-algorithms/issues/101)  
+[103. 二叉树的锯齿形层次遍历](https://github.com/guokangf/like-algorithms/issues/102)  
+[105. 从前序与中序遍历序列构造二叉树](https://github.com/guokangf/like-algorithms/issues/103)  
+[106. 从中序与后序遍历序列构造二叉树](https://github.com/guokangf/like-algorithms/issues/104)  
+
+## 第十七周
+
+> 专攻树继续
+
+[114. 二叉树展开为链表](https://github.com/guokangf/like-algorithms/issues/105)  
+[116. 填充每个节点的下一个右侧节点指针](https://github.com/guokangf/like-algorithms/issues/106)  
