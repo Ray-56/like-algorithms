@@ -287,3 +287,15 @@
 
 [114. 二叉树展开为链表](https://github.com/guokangf/like-algorithms/issues/105)  
 [116. 填充每个节点的下一个右侧节点指针](https://github.com/guokangf/like-algorithms/issues/106)  
+[129. 求根到叶子节点数字之和](https://github.com/guokangf/like-algorithms/issues/107)  
+[144. 二叉树的前序遍历](https://github.com/guokangf/like-algorithms/issues/108)  
+[145. 二叉树的后序遍历](https://github.com/guokangf/like-algorithms/issues/109)  
+[222. 完全二叉树的节点个数](https://github.com/guokangf/like-algorithms/issues/110)  
+[226. 翻转二叉树](https://github.com/guokangf/like-algorithms/issues/111)  
+
+## 第十八周
+
+> 专攻树再次
+
+[230. 二叉搜索树中第K小的元素 ](https://github.com/guokangf/like-algorithms/issues/112)  
+[404. 左叶子之和](https://github.com/guokangf/like-algorithms/issues/113)  
