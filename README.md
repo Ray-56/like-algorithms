@@ -299,3 +299,13 @@
 
 [230. 二叉搜索树中第K小的元素 ](https://github.com/guokangf/like-algorithms/issues/112)  
 [404. 左叶子之和](https://github.com/guokangf/like-algorithms/issues/113)  
+[450. 删除二叉搜索树中的节点](https://github.com/guokangf/like-algorithms/issues/114)  
+[508. 出现次数最多的子树元素和](https://github.com/guokangf/like-algorithms/issues/115)  
+[513. 找树左下角的值](https://github.com/guokangf/like-algorithms/issues/116)  
+
+## 第十九周
+
+> 简单中等树最后一周
+
+[429. N叉树的层序遍历](https://github.com/guokangf/like-algorithms/issues/117)  
+
