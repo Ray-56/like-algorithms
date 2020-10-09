@@ -308,4 +308,23 @@
 > 简单中等树最后一周
 
 [429. N叉树的层序遍历](https://github.com/guokangf/like-algorithms/issues/117)  
+[515. 在每个树行中找最大值](https://github.com/guokangf/like-algorithms/issues/118)  
+[530. 二叉搜索树的最小绝对差](https://github.com/guokangf/like-algorithms/issues/119)  
+[559. N叉树的最大深度](https://github.com/guokangf/like-algorithms/issues/120)  
+[572. 另一个树的子树](https://github.com/guokangf/like-algorithms/issues/121)  
+[589. N叉树的前序遍历](https://github.com/guokangf/like-algorithms/issues/122)  
+[590. N叉树的后序遍历](https://github.com/guokangf/like-algorithms/issues/123)  
+[606. 根据二叉树创建字符串](https://github.com/guokangf/like-algorithms/issues/124)  
 
+## 第二十周
+
+> 节前的几天
+
+[面试题 16.17. 连续数列](https://github.com/guokangf/like-algorithms/issues/125)  
+[剑指 Offer 32 - II. 从上到下打印二叉树 II](https://github.com/guokangf/like-algorithms/issues/126)  
+
+## 第二十一周
+
+> 节后回来手心工作学习
+
+[面试题 02.02. 返回倒数第 k 个节点](https://github.com/guokangf/like-algorithms/issues/127)  
